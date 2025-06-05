@@ -29,7 +29,8 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ### 🗺️ Top Hiring Locations
 
-![Top Hiring Locations](figures/top_locations.png)
+![Top Hiring Locations](figures/1_top_locations.png)
+![Exceedance Rate](https://github.com/ommair/Job-Market-analysis-for-Data-Scientists/blob/main/figures/1_top_locations.png?raw=true)
 
 > **Insight**: Bangalore, Hyderabad, and Pune are the most frequent cities for data science job listings.
 
