@@ -110,9 +110,17 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ---
 
-## 🚀 Run the Project
+## 💼 License
 
-### Requirements
+This project is licensed under the MIT License.
 
-```bash
-pip install pandas matplotlib scikit-learn umap-learn
+---
+
+## 👤 Author
+
+**Ommair Ishaque**
+Ph.D. Candidate, Computational Physics
+University of Delaware
+GitHub: [ommair](https://github.com/ommair)
+
+---
