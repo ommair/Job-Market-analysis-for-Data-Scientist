@@ -37,7 +37,7 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ### 🏢 Top Hiring Companies
 
-![Top Companies](figures/top_companies.png)
+![Top Companies](figures/2_top_companies.png)
 
 > A few large firms dominate the postings, possibly staffing multiple projects or clients.
 
@@ -45,7 +45,7 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ### 💼 Most Common Roles
 
-![Job Roles](figures/top_roles.png)
+![Job Roles](figures/3_top_roles.png)
 
 > The most advertised roles are **Data Scientist**, **ML Engineer**, and **Data Analyst**.
 
@@ -53,7 +53,7 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ### 🧪 Experience Requirements
 
-![Experience](figures/experience_distribution.png)
+![Experience](figures/4_desired_exp.png)
 
 > Most jobs target **mid-career professionals** (2–6 years of experience).
 
@@ -61,7 +61,7 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ### 🛠️ Most In-Demand Skills
 
-![Top Skills](figures/top_skills.png)
+![Top Skills](figures/5_desired_skills.png)
 
 > Skills like **Python**, **SQL**, **Machine Learning**, and **Deep Learning** appear most frequently.
 
@@ -71,29 +71,21 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ### 🔬 Data Science Domains
 
-![Domains](figures/domains.png)
+![Domains](figures/6_mandatory_skills.png)
 
 ### 🧑‍💻 Programming Languages
 
-![Languages](figures/languages.png)
+![Languages](figures/7_desired_programming.png)
 
-### ☁️ Cloud Providers
+### ☁️ Deep learning, Big Data and Visualization tools
 
-![Cloud Platforms](figures/clouds.png)
-
-### ⚙️ Big Data Technologies
-
-![Big Data Tools](figures/bigdata.png)
-
-### 📊 Visualization Tools
-
-![Visualization Tools](figures/visualization_tools.png)
+![Deep Learning](figures/8_deep_learning.png)
 
 ---
 
 ## 🧭 Location Clustering with PCA & UMAP
 
-![Clustering](figures/clustering_pca_umap.png)
+![Clustering](figures/9_umap_pca.png)
 
 > Using **UMAP** and **KMeans**, we discover meaningful clusters in job location patterns—hiring hubs share proximity in high-dimensional space.
 
