@@ -111,7 +111,7 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Ommair Ishaque**
-Ph.D. Candidate, Computational Physics
+Ph.D. Candidate, Computational Physics/Chemistry/ Data Scientist
 University of Delaware
 GitHub: [ommair](https://github.com/ommair)
 
