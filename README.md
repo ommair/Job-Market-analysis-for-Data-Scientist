@@ -77,7 +77,7 @@ This project performs a comprehensive **exploratory data analysis** of Data Scie
 
 ![Languages](figures/7_desired_programming.png)
 
-### ☁️ Deep learning, Big Data and Visualization tools
+### ☁️ Deep learning, Big Data, cloud platfroms and Visualization tools
 
 ![Deep Learning](figures/8_deep_learning.png)
 
